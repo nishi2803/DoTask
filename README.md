@@ -6,11 +6,11 @@ This project was created using SwiftUi and Realm is used for to store the task i
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/home.png?raw="true")
+![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/home.png?raw="true"){:height="50%" width="50%"}
 
-![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/viewTask.png?raw="true")
+![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/viewTask.png?raw="true"){:height="50%" width="50%"}
 
-![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/createTask.png?raw="true")
+![App Screenshot](https://github.com/nishi2803/DoTask/blob/main/Screenshots/createTask.png?raw="true"){:height="50%" width="50%"}
 
 
 
